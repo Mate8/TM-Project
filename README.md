@@ -1,14 +1,4 @@
 # MatKac.sp.j 𓀑
-
-<img
-  src="Doc/pic/logo.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 10px">
-  
-
-
-
 # Members:
     1.Magdalena Borowiec   - CEO - przewodnicząca 
     2.Mateusz Aniołkowski  - TL - one man army
