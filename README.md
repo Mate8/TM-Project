@@ -1,12 +1,12 @@
-# TM-Project 
+# MatKac.sp.j 𓀑
 
 <img
   src="Doc/pic/logo.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">
+  style="display: inline-block; margin: 0 auto; max-width: 10px">
   
-Nazwa firmy
+
 
 
 # Members:
@@ -28,6 +28,22 @@ Nazwa firmy
     - amperometryka silnika
     - kontrola temperatury na poszczególnych podzespołach
     
-    
+#  Rozplanowanie zadań
+    PAZDZIERNIK
+      >
+      >
+    LISTOPAD
+      >
+      >
+    GRUDZIEN
+      >
+      >
+    STYCZEN 
+      >
+      >
+    LUTY
+      >
+      >
 
 
+ 
