@@ -24,7 +24,7 @@
 
     https://allegro.pl/oferta/daly-modul-bms-10s-20a-70a-36-42v-li-ion-ip67-pcm-11159401337?snapshot=MjAyMS0xMC0xOVQwMDowMjowMS42ODhaO2J1eWVyO2Y4MWUzYzYwZjQzNjdkNjU3NGI4NjA5YmIzOWYzY2M3MTViNDBkOTQ3YjkyNTY3YjQxNDkxNTBjZDllMjg2YzQ%3D
 
-uP - atmega4809
+       uP - atmega4809
 
 
 ## Rozplanowanie zadań
